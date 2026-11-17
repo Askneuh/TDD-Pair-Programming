@@ -1,7 +1,7 @@
 package exemple;
 
-public class Main2 {
+public class FizzBuzz {
 	public String intToString(int i) {
-		return "";
+		return Integer.toString(i);
 	}
 }
